@@ -102,7 +102,7 @@ public class Main {
                 break;
 
             } else {
-                System.out.println("Account is has not been made");
+                System.out.println("Account has not been made.");
 
         }}
 
